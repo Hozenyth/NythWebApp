@@ -50,7 +50,12 @@ OBS.: Para acrescentar a tabela Produto utilizar o comando:
 
 Após esses passos, criar a Classe Produto e atualizar no Context o DbSet Produto. O app já é capaz de salvar categorias e produtos. Alguns campos foram utilizados o Required para que o mesmo não consiga ser salvo em branco.
 
-<img src="NythwebApp5.png">
+<img src="NythwebApp5.png"> <br>
+
+
+
+- BIBLIOGRAFIA: Curso Desenvolvimento de Aplicações com .NET - DIO
+
 
 
 
